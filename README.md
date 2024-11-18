@@ -1,4 +1,48 @@
-# Bitsight Sinkhole IPs
+
+# Bitsight Scanning infrastructure
+
+BitSight is like that nosy neighbor who catches a glimpse of you through the blinds and suddenly thinks they know your whole life story. They’re constantly scanning the internet—crawling websites, peeking into open ports—to piece together how secure (or insecure) your digital setup is.</p>
+
+But here’s the funny part: with just a few crumbs of data, they start extrapolating like there’s no tomorrow. Spot one open port? They assume your entire network security is looser than a thrift shop sweater. See a couple of outdated software versions? Suddenly, they’ve decided your entire IT department is running on Windows XP and duct tape.<br>
+Before you know it, BitSight has slapped you with a cybersecurity score, rating your digital fortress like a strict schoolteacher grading a half-finished homework assignment.</p>
+
+BitSight doesn’t just rate you based on what they find—they rate you on what they think they’ve found. And yes, they’re making wild guesses based on just a few hints, like assuming your whole house is a mess because they saw a sock on your porch.</p>
+
+A smart approach? Think of it like staging your house for a real estate agent: show off only the clean, organized rooms and keep the messy closets out of sight. In other words, strategically manage what BitSight can see, making sure they walk away impressed by your well-maintained cybersecurity posture, rather than poking around for skeletons in your digital closets.</p>
+
+## Bitisght scanners: [link](https://github.com/vratiskol/Bitsight/blob/4dbd59a88fa191caa12d5313fdd983fcace6ec03/Bitsight_scanner_ips.txt)
+
+45.156.128.0/22<br>
+185.180.140.0/22<br>
+185.226.196.0/23<br>
+185.117.225.0/24<br>
+
+
+# How does BitSight's "Compromise System" Category work?
+
+**Netflix Mode: ON**
+<p>Imagine setting up a fake nightclub—complete with bouncers, flashing lights, and cheesy music—to catch all the party crashers who keep trying to get in with stolen invites. But, plot twist, just when they think they’ve snuck past the velvet rope and are ready to party, the doors swing open, and instead of a dance floor... they find themselves standing in a police station, under a spotlight, with officers ready to take notes on every move they’ve made.</p>
+
+## Bitsight Sinkholes:
+<p>
+    A sinkhole is like one of those "Gotcha!" traps. Hackers are using C2 with shady domains that act like their secret command centers.
+    Once BitSight and other cybersecurity teams figure out these domains are being used for mischief, they swoop in, buy the domains, and turn them into bait.
+</p>
+<p>
+    BitSight sets up fake servers that look just like the original botnet command centers (same open port). Now, when infected computers come knocking, expecting some juicy hacker commands, they get redirected to BitSight’s "honeypot."
+    It’s like trying to enter a secret club, only to realize it’s actually the police station.
+</p>
+
+## Why Should You Care (or Not)?
+<p>
+    When a company’s computers start chatting with these domains, BitSight’s fake server takes note—like that bouncer jotting down the names of everyone trying to crash the party. The IP addresses in the connection logs are cross-checked with BitSight’s records to see which companies’ assets are getting a little too cozy with these shady domains.
+</p>
+<p>
+    Now, if you find your company's IP on this list, don’t panic (yet). It is a strong hint that your cyber defenses might be about as sturdy as a wet paper bag.
+    Sure, for now, it's just connecting to BitSight's sinkhole, but if a real hacker had been behind it, you’d be looking at a one-way ticket to Doomsville for your systems.
+</p>
+
+### Bitsight Sinkhole IPs: [link](https://github.com/vratiskol/Bitsight/blob/2f1e16e4165094a700056345bbd8fd8e90abedd8/Bitsight_Sinkhole_ips.txt)
 
 3.94.10.34<br>
 3.237.86.197<br>
@@ -38,3 +82,6 @@
 2600:9000:2009:ec00:3:ef2f:7c00:21<br>
 2600:9000:203c:7200:1e:142:8c00:93a1<br>
 2600:9000:20ad:1800:14:90f0:1580:ab8e<br>
+
+### Sinkhole Domains: [List of 100261 domains](https://github.com/vratiskol/Bitsight/blob/2f1e16e4165094a700056345bbd8fd8e90abedd8/Bitsight_Sinkhole_list_domains.csv)
+
