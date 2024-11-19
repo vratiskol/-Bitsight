@@ -17,6 +17,14 @@ A smart approach? Think of it like staging your house for a real estate agent: s
 185.226.196.0/23<br>
 185.117.225.0/24<br>
 
+### User-Agent used for Web scanning:
+
+- User-Agent: Mozilla/5.0 (compatible; BitSightBot/1.0)
+- User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+- User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/90.0.4430.212 Safari/537.36
+<br>
+<br>
+<br>
 
 # How does BitSight's "Compromise System" Category work?
 
