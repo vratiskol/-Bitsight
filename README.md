@@ -16,7 +16,11 @@ A smart approach? Think of it like staging your house for a real estate agent: s
 185.180.140.0/22<br>
 185.226.196.0/23<br>
 185.117.225.0/24<br>
-
+2a10:3c0:1::/48<br>
+<br>
+Total IPv4: 2,816 IPs<br>
+Total IPv6: 2<sup>80</sup><br>
+<br>
 ### User-Agent used for Web scanning:
 
 - User-Agent: Mozilla/5.0 (compatible; BitSightBot/1.0)
@@ -24,12 +28,11 @@ A smart approach? Think of it like staging your house for a real estate agent: s
 - User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/90.0.4430.212 Safari/537.36
 <br>
 <br>
-<br>
 
 # How does BitSight's "Compromise System" Category work?
 
 **Netflix Mode: ON**
-<p>Imagine setting up a fake nightclub—complete with bouncers, flashing lights, and cheesy music—to catch all the party crashers who keep trying to get in with stolen invites. But, plot twist, just when they think they’ve snuck past the velvet rope and are ready to party, the doors swing open, and instead of a dance floor... they find themselves standing in a police station, under a spotlight, with officers ready to take notes on every move they’ve made.</p>
+<p>:movie_camera: Imagine setting up a fake nightclub—complete with bouncers, flashing lights, and cheesy music—to catch all the party crashers who keep trying to get in with stolen invites. But, plot twist, just when they think they’ve snuck past the velvet rope and are ready to party, the doors swing open, and instead of a dance floor... they find themselves standing in a police station, under a spotlight, with officers ready to take notes on every move they’ve made.</p>
 
 ## Bitsight Sinkholes:
 <p>
@@ -91,5 +94,5 @@ A smart approach? Think of it like staging your house for a real estate agent: s
 2600:9000:203c:7200:1e:142:8c00:93a1<br>
 2600:9000:20ad:1800:14:90f0:1580:ab8e<br>
 
-### Sinkhole Domains: [List of 100261 domains](https://github.com/vratiskol/Bitsight/blob/2f1e16e4165094a700056345bbd8fd8e90abedd8/Bitsight_Sinkhole_list_domains.csv)
+### Sinkhole Domains: [List of 100,261 domains](https://github.com/vratiskol/Bitsight/blob/2f1e16e4165094a700056345bbd8fd8e90abedd8/Bitsight_Sinkhole_list_domains.csv)
 
