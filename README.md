@@ -29,7 +29,7 @@ Total IPv6: 2<sup>80</sup><br>
 <br>
 <br>
 
-# How does BitSight's "Compromise System" Category work?
+# How does BitSight's "Compromised System" Category work?
 
 **Netflix Mode: ON**
 <p>:movie_camera: Imagine setting up a fake nightclub—complete with bouncers, flashing lights, and cheesy music—to catch all the party crashers who keep trying to get in with stolen invites. But, plot twist, just when they think they’ve snuck past the velvet rope and are ready to party, the doors swing open, and instead of a dance floor... they find themselves standing in a police station, under a spotlight, with officers ready to take notes on every move they’ve made.</p>
