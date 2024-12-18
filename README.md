@@ -10,7 +10,7 @@ BitSight doesn’t just rate you based on what they find—they rate you on what
 
 A smart approach? Think of it like staging your house for a real estate agent: show off only the clean, organized rooms and keep the messy closets out of sight. In other words, strategically manage what BitSight can see, making sure they walk away impressed by your well-maintained cybersecurity posture, rather than poking around for skeletons in your digital closets.</p>
 
-## Bitisght scanners: [link](https://github.com/vratiskol/Bitsight/blob/4dbd59a88fa191caa12d5313fdd983fcace6ec03/Bitsight_scanner_ips.txt)
+## BitSight scanners: [link](https://github.com/vratiskol/Bitsight/blob/4dbd59a88fa191caa12d5313fdd983fcace6ec03/Bitsight_scanner_ips.txt)
 
 45.156.128.0/22<br>
 185.180.140.0/22<br>
@@ -34,7 +34,7 @@ Total IPv6: 2<sup>80</sup><br>
 **Netflix Mode: ON**
 <p>:movie_camera: Imagine setting up a fake nightclub—complete with bouncers, flashing lights, and cheesy music—to catch all the party crashers who keep trying to get in with stolen invites. But, plot twist, just when they think they’ve snuck past the velvet rope and are ready to party, the doors swing open, and instead of a dance floor... they find themselves standing in a police station, under a spotlight, with officers ready to take notes on every move they’ve made.</p>
 
-## Bitsight Sinkholes:
+## BitSight Sinkholes:
 <p>
     A sinkhole is like one of those "Gotcha!" traps. Hackers are using C2 with shady domains that act like their secret command centers.
     Once BitSight and other cybersecurity teams figure out these domains are being used for mischief, they swoop in, buy the domains, and turn them into bait.
@@ -53,7 +53,7 @@ Total IPv6: 2<sup>80</sup><br>
     Sure, for now, it's just connecting to BitSight's sinkhole, but if a real hacker had been behind it, you’d be looking at a one-way ticket to Doomsville for your systems.
 </p>
 
-### Bitsight Sinkhole IPs: [link](https://github.com/vratiskol/Bitsight/blob/2f1e16e4165094a700056345bbd8fd8e90abedd8/Bitsight_Sinkhole_ips.txt)
+### BitSight Sinkhole IPs: [link](https://github.com/vratiskol/Bitsight/blob/2f1e16e4165094a700056345bbd8fd8e90abedd8/Bitsight_Sinkhole_ips.txt)
 
 3.94.10.34<br>
 3.237.86.197<br>
